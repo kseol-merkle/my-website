@@ -71,6 +71,7 @@ body {
 
 body.appear {
   display: block;
+  background-color: aquamarine;
 }
 
 header {
